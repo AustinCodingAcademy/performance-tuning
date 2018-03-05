@@ -1,7 +1,7 @@
 {
-  "name": "advanced-first-web-server",
+  "name": "performance-tuning",
   "version": "1.0.0",
-  "description": "Starter repository for the ACA advanced contact list api project",
+  "description": "Let's make our code faster",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",
@@ -9,16 +9,12 @@
     "test": "npm run lint"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AustinCodingAcademy/advanced-first-web-server.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AustinCodingAcademy/advanced-first-web-server/issues"
-  },
-  "homepage": "https://github.com/AustinCodingAcademy/advanced-first-web-server#readme",
+ 
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
